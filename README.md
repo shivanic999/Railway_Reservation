@@ -1,2 +1,2 @@
 # VideoCallingApp
-Name of this app is Gathering. We can do video /audio call, screen sharing and chat by using this app.
+this project conserned with reservation of railway tickets to the passengers
